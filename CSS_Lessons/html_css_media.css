@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.all{
+    display: inline-block;
+    width: 40%;
+    background-color: hotpink;
+}
+
+/*there r three type of screen size (phones or pc..etc)can fit and work smoothly with it down there*/
+
+@media screen and (max-width:600px) {
+    .all{
+        display: block;
+        width: 100%;
+    }
+    body{
+        background: black;
+    }
+    
+}
+
+@media screen and (min-width:601px) and (max-width:1000px) {
+    body{
+        background: blue;
+    }
+    
+}
+
+@media screen and (min-width:1001px) and (max-width:1400px) {
+    body{
+        background: greenyellow;
+    }
+    
+}

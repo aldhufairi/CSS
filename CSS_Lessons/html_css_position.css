@@ -1,0 +1,22 @@
+.test1{
+    width: 60px;
+    background-color: red;
+    /*its position depend on class test3 coz its inside class test3 dive*/
+    /*position : sticky; is moving with scroling when u pass its position*/
+    position: absolute;
+    right: 0;
+}
+
+.test2{
+    width: 60px;
+    background-color: blue;
+}
+
+.test3{
+
+width: 300px;
+height: 100px;
+border: 5px black solid;
+/*it should be relative to make class test1 take the position inside the class test3 border*/
+position: relative;
+}

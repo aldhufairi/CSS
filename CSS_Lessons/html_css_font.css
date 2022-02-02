@@ -1,0 +1,24 @@
+div{
+    color: red;
+    font-family: monospace;
+    text-align: center;
+}
+
+h1{
+    /*it is better to add many font type just incase the user pc support one of the font type u mension*/
+    color: orchid;
+    font-family: cursive, Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+p{
+    color: purple;
+    font-family: serif;
+    font-size: 25px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-align: right;
+    direction: rtl;
+
+}

@@ -1,0 +1,17 @@
+input[type="text"]{
+
+    background-color: black;
+    color: white;
+}
+
+input[type="email"]{
+
+    background-color: red;
+    color: white;
+}
+
+input[type="submit"]{
+
+    background-color: gray;
+    color: black;
+}

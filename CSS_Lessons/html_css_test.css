@@ -1,0 +1,19 @@
+p{
+    color:blue;
+    font-size:100px
+}
+h1{
+    color:blueviolet;
+}
+
+.test3{
+    color:yellowgreen
+}
+
+#test5{
+    color:red
+}
+
+div p{
+    color: brown;
+}

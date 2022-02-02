@@ -1,0 +1,13 @@
+.name{
+    border: 5px black solid;
+
+    /*padding: 10px;*/
+    width: 70%;
+    margin : auto;
+}
+
+*{
+    /*all elements on my web will have that coz there r some browser has defylt margin and defult padding so u will avoid that by adding this code*/
+    padding: 0;
+    margin: 0;
+}

@@ -1,0 +1,12 @@
+.x{
+    height: 100px;
+    width: 100px;
+    background: orange;
+
+/*
+    border-width: 10px;
+    border-color: #000;
+    border-style: double;
+    */
+     border: black 10px solid;
+}

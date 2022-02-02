@@ -1,0 +1,13 @@
+ul{
+   /* list-style-type: disc;
+    list-style-position: inside;
+    /*the image should be small size*/
+    /*list-style-image: url("images/madrid.png");*/
+
+    list-style: square inside;
+}
+ul li{
+
+    background-color: red;
+
+}

@@ -1,0 +1,17 @@
+div{
+    background-color: red;
+    margin: 10px;
+    width: 100px;
+    height: 50px;
+    padding: 5px;
+    /*we change in display from block to inline-block*/
+    display: inline-block;
+}
+span{
+    /*cant add width and hight*/
+    /*better to write padding in span like this padding: 0 5px; also margin same*/
+    background-color: blue;
+    padding: 0 5px;
+    /*we change in display from inline to inline-block*/
+    display: inline-block;
+}

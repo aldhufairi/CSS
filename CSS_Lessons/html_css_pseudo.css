@@ -1,0 +1,33 @@
+a{
+    color: red;
+    text-decoration: none;
+}
+a:hover{
+    color: green;
+}
+/* a:visited{
+     color: blue;
+ }*/
+
+ .check:checked{
+     opacity: 0;
+ }
+
+ .text:focus{
+     outline: none;
+     border: 2px green solid;
+ }
+
+ p::first-letter{
+     color: brown;
+     font-size: 20px;
+ }
+
+ p::first-line{
+     color: cadetblue;
+ }
+/*:: this effect will be on all thwebsite*/
+ ::selection{
+     background-color: red;
+     color: white;
+ }

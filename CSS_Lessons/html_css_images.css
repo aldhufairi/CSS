@@ -1,0 +1,15 @@
+.x{
+    height: 200px;
+    width: 200px;
+    border: 5px black solid;
+
+    /*background-color: rgb(133, 43, 22);*/
+    /*background-color: rgba(54, 65, 1, 0.5);*/
+    background-color: #0000ff;
+    background-image: url("images/madrid.png");
+    background-size: 150px 150px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 50% 50%;
+
+}

@@ -1,0 +1,14 @@
+.container{
+    background-color: red;
+}
+.container div{
+    /*float: right;
+    width: 25%;*/
+    /*display: inline-block;*/
+    float: left;
+}
+
+.clear{
+    /*alwayes use clear when u want to use float*/
+    clear: both;
+}
